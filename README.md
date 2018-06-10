@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 
 ## This plugin is made by TheCyberCode (Mainstrike)
 SocialMedia++ is made so server owners can make it easier for their players on their server or network to access links to relevant sites or social media and with a nice layout. The GUI also makes accessing the links more efficient which will save time when looking for commands in this plugin. SocialMedia++ is also to tell players when a YouTuber or streamer is recording or streaming and to also help people know about the stream and join in with what the YouTuber is doing...
